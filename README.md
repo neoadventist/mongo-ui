@@ -1,4 +1,4 @@
 mongo-ui
 ========
 
-A visual IDE for the Mongo DB
+A visual IDE for the Mongo DB!

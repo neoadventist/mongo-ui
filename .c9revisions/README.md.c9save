@@ -1,0 +1,2 @@
+{"ts":1377239541239,"silentsave":true,"restoring":false,"patch":[[{"diffs":[[1,"mongo-ui\n========\n\nA visual IDE for the Mongo DB\n"]],"start1":0,"start2":0,"length1":0,"length2":49}]],"length":49}
+{"contributors":[],"silentsave":false,"ts":1377239549036,"patch":[[{"diffs":[[0,"Mongo DB"],[1,"!"],[0,"\n"]],"start1":40,"start2":40,"length1":9,"length2":10}]],"length":50,"saved":false}
